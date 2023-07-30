@@ -2,9 +2,9 @@
 #!desc = some rules for myself
 
 [Rule]
-DOMAIN,gspe1-ssl.ls.apple.com, DIRECT
-DOMAIN,np-edge.itunes.apple.com, DIRECT
-DOMAIN,play-edge.itunes.apple.com, DIRECT
-DOMAIN-SUFFIX,tv.apple.com, DIRECT
-DOMAIN-SUFFIX,zoom.us, DIRECT
-DOMAIN-SUFFIX,gov.sg, DIRECT
+DOMAIN,gspe1-ssl.ls.apple.com,DIRECT
+DOMAIN,np-edge.itunes.apple.com,DIRECT
+DOMAIN,play-edge.itunes.apple.com,DIRECT
+DOMAIN-SUFFIX,tv.apple.com,DIRECT
+# DOMAIN-SUFFIX,zoom.us,DIRECT
+# DOMAIN-SUFFIX,gov.sg,DIRECT
