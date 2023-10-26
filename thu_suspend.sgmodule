@@ -1,0 +1,5 @@
+#!name=THU Suspend
+#!desc=Automatically suspend Surge once connetced to Tsinghua WiFi
+
+[SSID Setting]
+"Tsinghua-Secure" suspend=true
