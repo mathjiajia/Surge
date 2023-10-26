@@ -1,5 +1,5 @@
-#!name = small-set
-#!desc = some rules for myself
+#!name = appletv_direct
+#!desc = connect ti apple tv services directly
 
 [Rule]
 # Apple TV -1
