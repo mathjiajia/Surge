@@ -2,8 +2,4 @@
 #!desc = Turn Off External Services
 
 [General]
-http-listen =
-socks5-listen =
-external-controller-access =
 allow-wifi-access = false
-
