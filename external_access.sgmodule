@@ -1,5 +1,5 @@
-#!name = External Access Control
-#!desc = Turn Off External Services
+#!name=External Access Control
+#!desc=Turn Off External Services
 
 [General]
-allow-wifi-access = false
+allow-wifi-access=false

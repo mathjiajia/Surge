@@ -1,5 +1,5 @@
-#!name=appletv_direct
-#!desc=connect to apple tv services directly
+#!name=direct_services
+#!desc=connect to some services directly
 
 [Rule]
 # Apple TV -1
@@ -11,3 +11,5 @@ DOMAIN,gspe1-ssl.ls.apple.com,DIRECT
 DOMAIN,np-edge.itunes.apple.com,DIRECT
 DOMAIN,play-edge.itunes.apple.com,DIRECT
 DOMAIN-SUFFIX,tv.apple.com,DIRECT
+# MathSciNet
+DOMAIN,mathscinet.ams.org,DIRECT
